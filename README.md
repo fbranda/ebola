@@ -1,1 +1,1 @@
-# ebola
+# Ebola outbreak in Uganda
