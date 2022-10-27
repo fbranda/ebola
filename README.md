@@ -22,11 +22,8 @@ This repository contains data extracted from the [ECDC surveillance](https://www
 | CumHCWCases | Cumulative number of confirmed cases of healthcare workers. | Numeric |
 | ConfHCWDeaths | Daily number of new confirmed deaths of healthcare workers. | Numeric | 
 | CumHCWDeaths | Cumulative number of confirmed deaths of healthcare workers. | Numeric |
-| NumSamples | Daily number of collected samples. | Numeric |
-| CumSamples | Cumulative number of collected samples. | Numeric |
-
-
-
+| NewContactsListed	| Contacts newly listed in the last 24 hours. | Numeric |
+| CumContactsListed | Cumulative number of contacts listed to date. | Numeric | 
 
 
 ## License and attribution
