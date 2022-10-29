@@ -1,0 +1,16 @@
+"Date as of","Hospital","# of beds in the Isolation Unit","# of ETU beds","# of beds occupied in the Isolation Unit today","# of beds occupied in the ETU today","# of suspect cases admitted to the Isolation Unit today","# of Cases admitted to the ETU today","# of walk in patients to the isolation Unit","# of Mild cases in the ETU today","# of Critical cases in the ETU today","# of patients discharged from the ETU","# of patients discharged from the Isolation Unit","# of suspect cases that died in the Isolation Unit","# of patients that died in the ETU"
+2022-10-23,"Mubende RRH ETU",30,24,18,7,11,1,1,1,10,0,17,0,0
+2022-10-23,"Madudu HCIII",8,2,2,2,2,0,0,0,0,1,1,0,0
+2022-10-23,"Entebbe RR Hospital",0,67,0,6,NA,12,0,4,2,5,0,NA,0
+2022-10-23,"Mulago NRH",120,NA,17,0,17,0,0,NA,NA,0,0,0,0
+2022-10-23,"Total",158,93,37,15,30,13,1,5,12,6,18,0,0
+2022-10-26,"Mubende RRH ETU",30,24,15,25,0,9,0,0,25,0,10,0,0
+2022-10-26,"Madudu HCIII",8,0,8,0,8,0,0,0,0,0,6,0,0
+2022-10-26,"Entebbe RR Hospital",NA,67,NA,18,0,1,0,14,12,0,0,0,1
+2022-10-26,"Mulago NRH",120,NA,31,NA,1,NA,0,NA,NA,NA,0,0,NA
+2022-10-26,"Total",158,91,54,43,9,10,0,14,27,0,16,0,1
+2022-10-27,"Mubende RRH ETU",30,24,30,23,6,2,0,0,23,4,2,0,0
+2022-10-27,"Madudu HCIII",8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-27,"Entebbe RR Hospital",NA,67,NA,18,0,0,0,16,2,0,0,0,0
+2022-10-27,"Mulago NRH",120,NA,31,NA,2,NA,0,NA,NA,NA,0,0,NA
+2022-10-27,"Total",156,93,61,43,8,2,0,16,25,4,2,0,0
