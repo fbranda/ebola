@@ -1,4 +1,4 @@
-# Ebola outbreak in Uganda
+# 2022 Uganda Ebola outbreak
 
 ## Contents
 
