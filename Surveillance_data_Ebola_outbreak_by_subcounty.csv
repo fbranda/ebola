@@ -1,0 +1,340 @@
+"Date as of","District","SubCounty","ConfCases","CumCases","ConfDeaths","CumDeaths"
+2022-10-09,"Mubende","Madudu",NA,16,NA,7
+2022-10-09,"Mubende","Eastern Division",NA,7,NA,1
+2022-10-09,"Mubende","Southern Division",NA,2,NA,0
+2022-10-09,"Mubende","Bagezza",NA,1,NA,1
+2022-10-09,"Mubende","Western Division",NA,2,NA,1
+2022-10-09,"Mubende","Kasambya",NA,1,NA,0
+2022-10-09,"Mubende","Kibalinga",NA,1,NA,1
+2022-10-09,"Mubende","Kiruuma",NA,6,NA,2
+2022-10-09,"Mubende","Kitenga",NA,1,NA,0
+2022-10-09,"Mubende","Kiyuni",NA,3,NA,2
+2022-10-09,"Kyegegwa","Kasule",NA,3,NA,1
+2022-10-09,"Kassanda","Kassanda",NA,2,NA,0
+2022-10-09,"Kassanda","Kalwana",NA,1,NA,0
+2022-10-09,"Kagadi","Kagadi TC",NA,1,NA,1
+2022-10-09,"Bunyangabu","Rwimi TC",NA,1,NA,0
+2022-10-09,"Total",NA,NA,48,NA,17
+2022-10-10,"Mubende","Madudu",0,16,0,7
+2022-10-10,"Mubende","Eastern Division",0,7,0,1
+2022-10-10,"Mubende","Southern Division",4,6,1,1
+2022-10-10,"Mubende","Bagezza",0,1,0,1
+2022-10-10,"Mubende","Western Division",0,2,0,1
+2022-10-10,"Mubende","Kasambya",2,3,0,0
+2022-10-10,"Mubende","Kibalinga",0,1,0,1
+2022-10-10,"Mubende","Kiruuma",0,6,1,3
+2022-10-10,"Mubende","Kitenga",0,1,0,0
+2022-10-10,"Mubende","Kiyuni",0,3,0,2
+2022-10-10,"Kyegegwa","Kasule",0,3,0,1
+2022-10-10,"Kassanda","Kassanda",0,2,0,0
+2022-10-10,"Kassanda","Kalwana",0,1,0,0
+2022-10-10,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-10,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-10,"Total",NA,6,54,2,19
+2022-10-11,"Mubende","Madudu",0,16,0,7
+2022-10-11,"Mubende","Eastern Division",0,7,0,1
+2022-10-11,"Mubende","Southern Division",0,6,0,1
+2022-10-11,"Mubende","Bagezza",0,1,0,1
+2022-10-11,"Mubende","Western Division",0,2,0,1
+2022-10-11,"Mubende","Kasambya",0,3,0,0
+2022-10-11,"Mubende","Kibalinga",0,1,0,1
+2022-10-11,"Mubende","Kiruuma",0,6,0,3
+2022-10-11,"Mubende","Kitenga",0,1,0,0
+2022-10-11,"Mubende","Kiyuni",0,3,0,2
+2022-10-11,"Kyegegwa","Kasule",0,3,0,1
+2022-10-11,"Kassanda","Kassanda",0,2,0,0
+2022-10-11,"Kassanda","Kalwana",0,1,0,0
+2022-10-11,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-11,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-11,"Total",NA,0,54,0,19
+2022-10-12,"Mubende","Madudu",0,16,0,7
+2022-10-12,"Mubende","Eastern Division",0,7,0,1
+2022-10-12,"Mubende","Southern Division",0,6,0,1
+2022-10-12,"Mubende","Bagezza",0,1,0,1
+2022-10-12,"Mubende","Western Division",0,2,0,1
+2022-10-12,"Mubende","Kasambya",0,3,0,0
+2022-10-12,"Mubende","Kibalinga",0,1,0,1
+2022-10-12,"Mubende","Kiruuma",0,6,0,3
+2022-10-12,"Mubende","Kitenga",0,1,0,0
+2022-10-12,"Mubende","Kiyuni",0,3,0,2
+2022-10-12,"Kyegegwa","Kasule",0,3,0,1
+2022-10-12,"Kassanda","Kassanda",0,2,0,0
+2022-10-12,"Kassanda","Kalwana",0,1,0,0
+2022-10-12,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-12,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-12,"Total",NA,0,54,0,19
+2022-10-13,"Mubende","Madudu",0,16,0,7
+2022-10-13,"Mubende","Eastern Division",0,7,0,1
+2022-10-13,"Mubende","Southern Division",0,6,0,1
+2022-10-13,"Mubende","Bagezza",0,1,0,1
+2022-10-13,"Mubende","Western Division",0,2,0,1
+2022-10-13,"Mubende","Kasambya",2,5,0,0
+2022-10-13,"Mubende","Kibalinga",0,1,0,1
+2022-10-13,"Mubende","Kiruuma",1,7,0,3
+2022-10-13,"Mubende","Kitenga",0,1,0,0
+2022-10-13,"Mubende","Butologo",1,1,0,0
+2022-10-13,"Mubende","Kiyuni",0,3,0,2
+2022-10-13,"Kyegegwa","Kasule",0,3,0,1
+2022-10-13,"Kassanda","Kassanda",0,2,0,0
+2022-10-13,"Kassanda","Kalwana",0,1,0,0
+2022-10-13,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-13,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-13,"Total",NA,4,58,0,19
+2022-10-14,"Mubende","Madudu",0,16,0,7
+2022-10-14,"Mubende","Eastern Division",0,7,0,1
+2022-10-14,"Mubende","Southern Division",0,6,0,1
+2022-10-14,"Mubende","Bagezza",0,1,0,1
+2022-10-14,"Mubende","Western Division",0,2,0,1
+2022-10-14,"Mubende","Kasambya",0,5,0,0
+2022-10-14,"Mubende","Kibalinga",0,1,0,1
+2022-10-14,"Mubende","Kiruuma",0,7,0,3
+2022-10-14,"Mubende","Kitenga",0,1,0,0
+2022-10-14,"Mubende","Butologo",0,1,1,1
+2022-10-14,"Mubende","Kiyuni",0,3,1,3
+2022-10-14,"Kyegegwa","Kasule",0,3,0,1
+2022-10-14,"Kassanda","Kassanda",0,2,0,0
+2022-10-14,"Kassanda","Kalwana",0,1,0,0
+2022-10-14,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-14,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-14,"Total",NA,0,58,2,21
+2022-10-15,"Mubende","Madudu",0,16,0,7
+2022-10-15,"Mubende","Eastern Division",0,7,0,1
+2022-10-15,"Mubende","Southern Division",0,6,0,1
+2022-10-15,"Mubende","Bagezza",0,1,0,1
+2022-10-15,"Mubende","Western Division",0,2,0,1
+2022-10-15,"Mubende","Kasambya",0,5,0,0
+2022-10-15,"Mubende","Kibalinga",0,1,0,1
+2022-10-15,"Mubende","Kiruuma",0,7,0,3
+2022-10-15,"Mubende","Kitenga",0,1,0,0
+2022-10-15,"Mubende","Butologo",0,1,0,1
+2022-10-15,"Mubende","Kiyuni",0,3,0,3
+2022-10-15,"Kyegegwa","Kasule",0,3,0,1
+2022-10-15,"Kassanda","Kassanda",0,2,0,0
+2022-10-15,"Kassanda","Kalwana",0,1,0,0
+2022-10-15,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-15,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-15,"Total",NA,0,58,0,21
+2022-10-16,"Mubende","Madudu",1,17,0,7
+2022-10-16,"Mubende","Eastern Division",0,7,0,1
+2022-10-16,"Mubende","Southern Division",0,6,2,3
+2022-10-16,"Mubende","Bagezza",0,1,0,1
+2022-10-16,"Mubende","Western Division",0,2,0,1
+2022-10-16,"Mubende","Kasambya",0,5,0,0
+2022-10-16,"Mubende","Kibalinga",0,1,0,1
+2022-10-16,"Mubende","Kiruuma",0,7,0,3
+2022-10-16,"Mubende","Kitenga",0,1,0,0
+2022-10-16,"Mubende","Butologo",0,1,0,1
+2022-10-16,"Mubende","Kiyuni",0,3,0,3
+2022-10-16,"Kyegegwa","Kasule",0,3,0,1
+2022-10-16,"Kassanda","Kassanda",1,3,0,0
+2022-10-16,"Kassanda","Kalwana",0,1,0,0
+2022-10-16,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-16,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-16,"Total",NA,2,60,2,23
+2022-10-17,"Mubende","Madudu",0,17,0,7
+2022-10-17,"Mubende","Eastern Division",0,7,0,1
+2022-10-17,"Mubende","Southern Division",0,6,0,3
+2022-10-17,"Mubende","Bagezza",0,1,0,1
+2022-10-17,"Mubende","Western Division",0,2,0,1
+2022-10-17,"Mubende","Kasambya",0,5,0,0
+2022-10-17,"Mubende","Kibalinga",0,1,0,1
+2022-10-17,"Mubende","Kiruuma",0,7,0,3
+2022-10-17,"Mubende","Kitenga",0,1,0,0
+2022-10-17,"Mubende","Butologo",0,1,0,1
+2022-10-17,"Mubende","Kiyuni",0,3,0,3
+2022-10-17,"Kyegegwa","Kasule",0,3,0,1
+2022-10-17,"Kassanda","Kassanda",0,3,1,1
+2022-10-17,"Kassanda","Kalwana",0,1,0,0
+2022-10-17,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-17,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-17,"Total",NA,0,60,1,24
+2022-10-19,"Mubende","Madudu",NA,17,NA,7
+2022-10-19,"Mubende","Eastern Division",NA,7,NA,1
+2022-10-19,"Mubende","Southern Division",NA,7,NA,3
+2022-10-19,"Mubende","Bagezza",NA,2,NA,1
+2022-10-19,"Mubende","Western Division",NA,2,NA,1
+2022-10-19,"Mubende","Kasambya",NA,5,NA,0
+2022-10-19,"Mubende","Kibalinga",NA,1,NA,1
+2022-10-19,"Mubende","Kiruuma",NA,8,NA,3
+2022-10-19,"Mubende","Kitenga",NA,1,NA,0
+2022-10-19,"Mubende","Butologo",NA,1,NA,1
+2022-10-19,"Mubende","Kiyuni",NA,3,NA,3
+2022-10-19,"Kyegegwa","Kasule",NA,3,NA,1
+2022-10-19,"Kassanda","Kassanda",NA,1,NA,1
+2022-10-19,"Kassanda","Kiganda",NA,1,NA,1
+2022-10-19,"Kassanda","Kalwana",NA,4,NA,0
+2022-10-19,"Kagadi","Kagadi TC",NA,1,NA,1
+2022-10-19,"Bunyangabu","Rwimi TC",NA,1,NA,0
+2022-10-19,"Total",NA,NA,65,NA,25
+2022-10-20,"Mubende","Madudu",3,20,0,7
+2022-10-20,"Mubende","Eastern Division",0,7,0,1
+2022-10-20,"Mubende","Southern Division",0,7,0,3
+2022-10-20,"Mubende","Bagezza",0,2,1,2
+2022-10-20,"Mubende","Western Division",0,2,0,1
+2022-10-20,"Mubende","Kasambya",-2,3,1,1
+2022-10-20,"Mubende","Kibalinga",0,1,0,1
+2022-10-20,"Mubende","Kiruuma",0,8,0,3
+2022-10-20,"Mubende","Kitenga",0,1,0,0
+2022-10-20,"Mubende","Butologo",0,1,0,1
+2022-10-20,"Mubende","Kiyuni",0,3,0,3
+2022-10-20,"Kyegegwa","Kasule",0,3,0,1
+2022-10-20,"Kassanda","Kassanda",0,1,0,1
+2022-10-20,"Kassanda","Kiganda",0,1,0,1
+2022-10-20,"Kassanda","Kalwana",0,4,0,0
+2022-10-20,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-20,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-20,"Total",NA,1,66,2,27
+2022-10-23,"Bunyangabu","Rwimi TC",NA,1,NA,0
+2022-10-23,"Kagadi","Kagadi TC",NA,1,NA,1
+2022-10-23,"Kassanda","Kalwana",NA,1,NA,0
+2022-10-23,"Kassanda","Kassanda",NA,2,NA,0
+2022-10-23,"Kassanda","Kikandwa",NA,5,NA,2
+2022-10-23,"Kassanda","Kiganda",NA,1,NA,0
+2022-10-23,"Kassanda","Gomba",NA,1,NA,0
+2022-10-23,"Kyegegwa","Kasule",NA,3,NA,1
+2022-10-23,"Wakiso","Nanssana",NA,1,NA,0
+2022-10-23,"Kampala","Rubaga",NA,11,NA,0
+2022-10-23,"Kampala","Kawempe",NA,2,NA,0
+2022-10-23,"Kampala","Makindye",NA,1,NA,0
+2022-10-23,"Mubende","Bagezza",NA,2,NA,1
+2022-10-23,"Mubende","Butologo",NA,1,NA,1
+2022-10-23,"Mubende","Eastern Division",NA,8,NA,1
+2022-10-23,"Mubende","Western Division",NA,2,NA,2
+2022-10-23,"Mubende","Southern Division",NA,7,NA,3
+2022-10-23,"Mubende","Kasambya",NA,5,NA,1
+2022-10-23,"Mubende","Kiruuma",NA,9,NA,4
+2022-10-23,"Mubende","Kiyuni",NA,3,NA,3
+2022-10-23,"Mubende","Madudu",NA,21,NA,7
+2022-10-23,"Mubende","Kibalinga",NA,1,NA,1
+2022-10-23,"Mubende","Kitenga",NA,1,NA,0
+2022-10-23,"Total",NA,NA,90,NA,28
+2022-10-25,"Bunyangabu","Rwimi TC",NA,1,NA,0
+2022-10-25,"Kagadi","Kagadi TC",NA,1,NA,1
+2022-10-25,"Kampala","Kawempe",NA,2,NA,0
+2022-10-25,"Kampala","Makindye",NA,1,NA,0
+2022-10-25,"Kampala","Rubaga",NA,14,NA,0
+2022-10-25,"Kassanda","Gomba",NA,1,NA,0
+2022-10-25,"Kassanda","Kalwana",NA,15,NA,0
+2022-10-25,"Kassanda","Kassanda",NA,3,NA,0
+2022-10-25,"Kassanda","Kiganda",NA,2,NA,0
+2022-10-25,"Kassanda","Kikandwa",NA,3,NA,2
+2022-10-25,"Kyegegwa","Kasule",NA,3,NA,1
+2022-10-25,"Mubende","Bagezza",NA,2,NA,2
+2022-10-25,"Mubende","Butologo",NA,1,NA,1
+2022-10-25,"Mubende","Eastern Division",NA,8,NA,1
+2022-10-25,"Mubende","Southern Division",NA,7,NA,3
+2022-10-25,"Mubende","Western Division",NA,3,NA,1
+2022-10-25,"Mubende","Kasambya",NA,5,NA,1
+2022-10-25,"Mubende","Kiruuma",NA,9,NA,4
+2022-10-25,"Mubende","Kirwanyi",NA,1,NA,0
+2022-10-25,"Mubende","Kiyuni",NA,3,NA,3
+2022-10-25,"Mubende","Madudu",NA,21,NA,10
+2022-10-25,"Mubende","Kibalinga",NA,1,NA,1
+2022-10-25,"Mubende","Kitenga",NA,1,NA,0
+2022-10-25,"Wakiso","Busiro",NA,1,NA,0
+2022-10-25,"Wakiso","Nanssana",NA,1,NA,0
+2022-10-25,"Total",NA,NA,110,NA,31
+2022-10-26,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-26,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-26,"Kampala","Kawempe",0,2,0,0
+2022-10-26,"Kampala","Makindye",0,1,0,0
+2022-10-26,"Kampala","Rubaga",0,14,1,1
+2022-10-26,"Kassanda","Gomba",0,1,0,0
+2022-10-26,"Kassanda","Kalwana",2,17,0,0
+2022-10-26,"Kassanda","Kassanda",2,5,0,0
+2022-10-26,"Kassanda","Kiganda",0,2,0,0
+2022-10-26,"Kassanda","Kikandwa",0,3,0,2
+2022-10-26,"Kyegegwa","Kasule",0,3,0,1
+2022-10-26,"Mubende","Bagezza",0,2,0,2
+2022-10-26,"Mubende","Butologo",0,1,0,1
+2022-10-26,"Mubende","Eastern Division",0,8,0,1
+2022-10-26,"Mubende","Southern Division",0,7,0,3
+2022-10-26,"Mubende","Western Division",0,3,0,1
+2022-10-26,"Mubende","Kasambya",0,5,0,1
+2022-10-26,"Mubende","Kiruuma",1,10,0,4
+2022-10-26,"Mubende","Kirwanyi",0,1,0,0
+2022-10-26,"Mubende","Kiyuni",0,3,0,3
+2022-10-26,"Mubende","Madudu",0,21,0,10
+2022-10-26,"Mubende","Kibalinga",0,1,0,1
+2022-10-26,"Mubende","Kitenga",0,1,0,0
+2022-10-26,"Wakiso","Busiro",0,1,0,0
+2022-10-26,"Wakiso","Nanssana",0,1,0,0
+2022-10-26,"Total",NA,5,115,1,32
+2022-10-27,"Bunyangabu","Rwimi TC",0,1,0,0
+2022-10-27,"Kagadi","Kagadi TC",0,1,0,1
+2022-10-27,"Kampala","Kawempe",0,2,0,0
+2022-10-27,"Kampala","Makindye",0,1,0,0
+2022-10-27,"Kampala","Rubaga",0,14,0,1
+2022-10-27,"Kassanda","Gomba",0,1,0,0
+2022-10-27,"Kassanda","Kalwana",3,20,0,0
+2022-10-27,"Kassanda","Kassanda",0,5,0,0
+2022-10-27,"Kassanda","Kiganda",0,2,0,0
+2022-10-27,"Kassanda","Kikandwa",2,5,0,2
+2022-10-27,"Kyegegwa","Kasule",0,3,0,1
+2022-10-27,"Mubende","Bagezza",0,2,0,2
+2022-10-27,"Mubende","Butologo",0,1,0,1
+2022-10-27,"Mubende","Eastern Division",0,8,0,1
+2022-10-27,"Mubende","Southern Division",0,7,0,3
+2022-10-27,"Mubende","Western Division",0,3,0,1
+2022-10-27,"Mubende","Kasambya",0,5,0,1
+2022-10-27,"Mubende","Kiruuma",0,10,0,4
+2022-10-27,"Mubende","Kirwanyi",0,1,0,0
+2022-10-27,"Mubende","Kiyuni",0,3,0,3
+2022-10-27,"Mubende","Madudu",0,21,0,10
+2022-10-27,"Mubende","Kibalinga",0,1,0,1
+2022-10-27,"Mubende","Kitenga",0,1,0,0
+2022-10-27,"Wakiso","Busiro",0,1,0,0
+2022-10-27,"Wakiso","Nanssana",0,1,0,0
+2022-10-27,"Total",NA,5,120,0,32
+2022-10-29,"Bunyangabu","Rwimi TC",NA,1,NA,0
+2022-10-29,"Kagadi","Kagadi TC",NA,1,NA,1
+2022-10-29,"Kampala","Kawempe",NA,2,NA,0
+2022-10-29,"Kampala","Makindye",NA,1,NA,0
+2022-10-29,"Kampala","Rubaga",NA,14,NA,1
+2022-10-29,"Kassanda","Gomba",NA,1,NA,1
+2022-10-29,"Kassanda","Kalwana",NA,24,NA,1
+2022-10-29,"Kassanda","Kassanda",NA,5,NA,0
+2022-10-29,"Kassanda","Kiganda",NA,3,NA,0
+2022-10-29,"Kassanda","Kikandwa",NA,5,NA,2
+2022-10-29,"Kyegegwa","Kasule",NA,4,NA,1
+2022-10-29,"Mubende","Bagezza",NA,2,NA,2
+2022-10-29,"Mubende","Butologo",NA,1,NA,1
+2022-10-29,"Mubende","Eastern Division",NA,9,NA,1
+2022-10-29,"Mubende","Southern Division",NA,7,NA,3
+2022-10-29,"Mubende","Western Division",NA,3,NA,1
+2022-10-29,"Mubende","Kasambya",NA,5,NA,1
+2022-10-29,"Mubende","Kiruuma",NA,10,NA,4
+2022-10-29,"Mubende","Kirwanyi",NA,2,NA,0
+2022-10-29,"Mubende","Kiyuni",NA,3,NA,3
+2022-10-29,"Mubende","Madudu",NA,21,NA,10
+2022-10-29,"Mubende","Kibalinga",NA,1,NA,1
+2022-10-29,"Mubende","Kitenga",NA,1,NA,0
+2022-10-29,"Wakiso","Busiro",NA,1,NA,0
+2022-10-29,"Wakiso","Nanssana",NA,1,NA,0
+2022-10-29,"Total",NA,NA,128,NA,34
+2022-10-31,"Bunyangabu","Rwimi TC",NA,1,NA,0
+2022-10-31,"Kagadi","Kagadi TC",NA,1,NA,1
+2022-10-31,"Kampala","Kawempe",NA,2,NA,0
+2022-10-31,"Kampala","Makindye",NA,1,NA,0
+2022-10-31,"Kampala","Rubaga",NA,14,NA,2
+2022-10-31,"Kassanda","Gomba",NA,1,NA,1
+2022-10-31,"Kassanda","Kalwana",NA,25,NA,7
+2022-10-31,"Kassanda","Kassanda",NA,5,NA,0
+2022-10-31,"Kassanda","Kiganda",NA,3,NA,0
+2022-10-31,"Kassanda","Kikandwa",NA,6,NA,3
+2022-10-31,"Kyegegwa","Kasule",NA,4,NA,1
+2022-10-31,"Mubende","Bagezza",NA,2,NA,2
+2022-10-31,"Mubende","Butologo",NA,1,NA,1
+2022-10-31,"Mubende","Eastern Division",NA,9,NA,1
+2022-10-31,"Mubende","Southern Division",NA,7,NA,3
+2022-10-31,"Mubende","Western Division",NA,3,NA,1
+2022-10-31,"Mubende","Kasambya",NA,5,NA,2
+2022-10-31,"Mubende","Kiruuma",NA,10,NA,4
+2022-10-31,"Mubende","Kirwanyi",NA,2,NA,0
+2022-10-31,"Mubende","Kiyuni",NA,3,NA,3
+2022-10-31,"Mubende","Madudu",NA,21,NA,10
+2022-10-31,"Mubende","Kibalinga",NA,1,NA,1
+2022-10-31,"Mubende","Kitenga",NA,1,NA,0
+2022-10-31,"Wakiso","Busiro",NA,1,NA,0
+2022-10-31,"Wakiso","Nanssana",NA,1,NA,0
+2022-10-31,"Total",NA,NA,130,NA,43
