@@ -24,6 +24,22 @@ This repository contains data extracted from the [ECDC surveillance](https://www
 | ConfHCWDeaths | Daily number of new confirmed deaths of healthcare workers. | Numeric | 
 | CumHCWDeaths | Cumulative number of confirmed deaths of healthcare workers. | Numeric |
 
+## Getting the data
+
+**Direct download (CSV)**: https://raw.githubusercontent.com/fbranda/ebola/main/Surveillance_data_Ebola_outbreak.csv
+
+**Python** (requires `pandas`):
+```python
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/fbranda/ebola/main/Surveillance_data_Ebola_outbreak.csv")
+```
+
+**R** (requires `httr`):
+```r
+library(httr)
+df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/ebola/main/Surveillance_data_Ebola_outbreak.csv")))
+```
+
 
 ## License and attribution
 
