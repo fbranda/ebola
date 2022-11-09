@@ -14,7 +14,7 @@ This repository contains data extracted from the [ECDC surveillance](https://www
 | Date as of      | Date of reporting.       | YYYY-MM-DD  |
 | District     |  ISO 3 letter district code.       | String   |
 | ConfCases | Daily number of new confirmed cases. | Numeric |
-| CumCases| Cumulative number of cumulative confirmed cases. | Numeric |
+| CumCases| Cumulative number of confirmed cases. | Numeric |
 | ConfDeaths | Daily number of new confirmed deaths. | Numeric |
 | CumDeaths | Cumulative number of confirmed deaths. | Numeric |
 | ConfRecoveries | Daily number of new confirmed recoveries. | Numeric |
