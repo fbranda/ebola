@@ -4,6 +4,10 @@
 
 This repository contains data extracted from the [ECDC surveillance](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-uganda) and [Ministry of Health, Uganda](https://twitter.com/MinofHealthUG) bulletins in collaboration with the [World Health Organization - Regional Office for Africa (WHO AFRO)](https://www.afro.who.int/countries/publications?country=879).
 
+#### Data changes
+* **2022-10-29**: From this date data file (`Surveillance_hospital_data_Ebola_outbreak.csv`) contains case management summaries to accurately reflect the situation in hospitals. 
+* **2022-11-11**: From this date data files (`epicurve_by_onset_date.csv`, `epicurve_by_notification_sex.csv`) have cases (confirmed and probable) per day and per date of notification and sex, respectively, from the current outbreak. 
+
 
 ## Data dictionary
 
@@ -23,6 +27,7 @@ This repository contains data extracted from the [ECDC surveillance](https://www
 | CumHCWCases | Cumulative number of confirmed cases of healthcare workers. | Numeric |
 | ConfHCWDeaths | Daily number of new confirmed deaths of healthcare workers. | Numeric | 
 | CumHCWDeaths | Cumulative number of confirmed deaths of healthcare workers. | Numeric |
+
 
 ## Getting the data
 
