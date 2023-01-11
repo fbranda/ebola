@@ -45,6 +45,9 @@ library(httr)
 df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/ebola/main/Surveillance_data_Ebola_outbreak.csv")))
 ```
 
+## Contributions
+1) [Branda F, Maruotti A. 2022 Uganda Ebola outbreak: early descriptions and open data. Journal of Medical Virology. 2022 Nov 24.](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.28344)
+
 
 ## License and attribution
 
