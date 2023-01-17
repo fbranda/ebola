@@ -1,4 +1,4 @@
-"Date as of","Sex","Daily cases","Cumulative cases"
+"Date as of","Type of case","ConfCases","CumCases"
 2022-08-08,"Confirmed",0,0
 2022-08-08,"Probable",1,1
 2022-08-09,"Confirmed",0,0
