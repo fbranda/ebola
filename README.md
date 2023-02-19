@@ -9,25 +9,6 @@ This repository contains data extracted from the [ECDC surveillance](https://www
 * **2022-11-11**: From this date data files (`epicurve_by_onset_date.csv`, `epicurve_by_notification_sex.csv`) have cases (confirmed and probable) per date of notification by sex. 
 * **2022-11-15**: From this date data file (`epicurve_by_onset_date_district.csv`) have cases (confirmed and probable) per date of notification by district. 
 
-## Data dictionary
-
-### 
-
-| Column      | Definition | Format     |
-| :---        |    :----:   |          ---: |
-| Date as of      | Date of reporting.       | YYYY-MM-DD  |
-| District     |  ISO 3 letter district code.       | String   |
-| ConfCases | Daily number of new confirmed cases. | Numeric |
-| CumCases| Cumulative number of confirmed cases. | Numeric |
-| ConfDeaths | Daily number of new confirmed deaths. | Numeric |
-| CumDeaths | Cumulative number of confirmed deaths. | Numeric |
-| ConfRecoveries | Daily number of new confirmed recoveries. | Numeric |
-| CumRecoveries | Cumulative number of confirmed recoveries. | Numeric |
-| ConfHCWcases | Daily number of new confirmed cases of healthcare workers. | Numeric | 
-| CumHCWCases | Cumulative number of confirmed cases of healthcare workers. | Numeric |
-| ConfHCWDeaths | Daily number of new confirmed deaths of healthcare workers. | Numeric | 
-| CumHCWDeaths | Cumulative number of confirmed deaths of healthcare workers. | Numeric |
-
 
 ## Getting the data
 
@@ -47,6 +28,7 @@ df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/ebola
 
 ## Contributions
 1) [Branda F, Maruotti A. 2022 Uganda Ebola outbreak: early descriptions and open data. Journal of Medical Virology. 2022 Nov 24.](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.28344)
+2) [Branda, Francesco and Mahal, Ahmed and Maruotti, Antonello and Pierini, Massimo and Mazzoli, Sandra. The challenges of open data for future epidemic preparedness: The experience of the 2022 Ebolavirus outbreak in Uganda](https://www.frontiersin.org/articles/10.3389/fphar.2023.1101894/full)
 
 
 ## License and attribution
