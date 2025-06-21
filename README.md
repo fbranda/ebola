@@ -29,8 +29,12 @@ df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/ebola
 ```
 
 ## Contributions
+### 2022
 1) [Branda F, Maruotti A. 2022 Uganda Ebola outbreak: early descriptions and open data. Journal of Medical Virology. 2022 Nov 24.](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.28344)
 2) [Branda, Francesco and Mahal, Ahmed and Maruotti, Antonello and Pierini, Massimo and Mazzoli, Sandra. The challenges of open data for future epidemic preparedness: The experience of the 2022 Ebolavirus outbreak in Uganda](https://www.frontiersin.org/articles/10.3389/fphar.2023.1101894/full)
+
+### 2025
+1) [Branda F, Ciccozzi M, Scarpa F. Epidemiology and Genetic Characterization of Distinct Ebola Sudan Outbreaks in Uganda. Infectious Disease Reports. 2025 May 1;17(3):44.](https://www.mdpi.com/2036-7449/17/3/44)
 
 
 ## License and attribution
