@@ -1,10 +1,11 @@
-# Uganda Ebola outbreak
+# Ebola outbreaks
 
 ## Contents
 
-This repository contains data extracted from the [ECDC surveillance](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-uganda) and [Ministry of Health, Uganda](https://twitter.com/MinofHealthUG) bulletins in collaboration with the [World Health Organization - Regional Office for Africa (WHO AFRO)](https://www.afro.who.int/countries/publications?country=879) for the year 2022.
+This repository currently contains data on Ebola virus disease outbreaks in Uganda.
 
-For 2025, data were extracted from the [Weekly Bulletin on Outbreaks and Other Emergencies](https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates).
+- For 2022, data were extracted from [ECDC surveillance reports](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-uganda) and bulletins published by the [Ministry of Health, Uganda](https://twitter.com/MinofHealthUG), in collaboration with the [World Health Organization - Regional Office for Africa (WHO AFRO)](https://www.afro.who.int/countries/publications?country=879).
+- For 2025, data were extracted from the [Weekly Bulletin on Outbreaks and Other Emergencies](https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates).
 
 #### Data changes
 * **2022-10-29**: From this date data file (`Surveillance_hospital_data_Ebola_outbreak.csv`) contains case management summaries to accurately reflect the situation in hospitals. 
